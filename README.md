@@ -1,3 +1,7 @@
+## Ciao 👋
+
+Sono uno studente di Informatica.
+
 ##  Le mie passioni
 
 -INFORMATICA                                                                                             
