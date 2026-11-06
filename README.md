@@ -1,11 +1,11 @@
 ##  Le mie passioni
 
-- informatica
-- tennis
+-INFORMATICA                                                                                             
+-TENNIS
 
-## Tecnologia ed esperienze
+## 💻 Tecnologia ed esperienze
 
-Ho già avuto occasione di utilizzare o conoscere:
+HO GIA AVUTO ESPERIENZA CON :
 
 - HTML
 - CSS
@@ -14,3 +14,6 @@ Ho già avuto occasione di utilizzare o conoscere:
 - FOGLIO DI CALCOLO
 - FLOWGORITHM
 
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+VORREI REALIZZARE UN'INTELLIGENZA ARTIFICIALE 
